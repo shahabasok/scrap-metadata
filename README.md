@@ -1,7 +1,7 @@
 # scrap-metadata
 
-This Azure function is developed using VS code extension
-To install the extension Launch VS Code Quick Open (Ctrl+P) and run the command "ext install ms-azuretools.vscode-azurefunctions"
+This Azure function is developed using VS code extension.
+To install the extension Launch VS Code Quick Open (Ctrl+P) and run the command "ext install ms-azuretools.vscode-azurefunctions".
 Use this link for more details https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 
 This is a HTTP Trigger function.
